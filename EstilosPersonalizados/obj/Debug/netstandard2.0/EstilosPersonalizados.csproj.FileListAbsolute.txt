@@ -1,0 +1,9 @@
+C:\XamarinProjects\EstilosPersonalizados\EstilosPersonalizados\EstilosPersonalizados\bin\Debug\netstandard2.0\EstilosPersonalizados.deps.json
+C:\XamarinProjects\EstilosPersonalizados\EstilosPersonalizados\EstilosPersonalizados\bin\Debug\netstandard2.0\EstilosPersonalizados.dll
+C:\XamarinProjects\EstilosPersonalizados\EstilosPersonalizados\EstilosPersonalizados\bin\Debug\netstandard2.0\EstilosPersonalizados.pdb
+C:\XamarinProjects\EstilosPersonalizados\EstilosPersonalizados\EstilosPersonalizados\obj\Debug\netstandard2.0\EstilosPersonalizados.csprojAssemblyReference.cache
+C:\XamarinProjects\EstilosPersonalizados\EstilosPersonalizados\EstilosPersonalizados\obj\Debug\netstandard2.0\EstilosPersonalizados.csproj.CoreCompileInputs.cache
+C:\XamarinProjects\EstilosPersonalizados\EstilosPersonalizados\EstilosPersonalizados\obj\Debug\netstandard2.0\EstilosPersonalizados.AssemblyInfoInputs.cache
+C:\XamarinProjects\EstilosPersonalizados\EstilosPersonalizados\EstilosPersonalizados\obj\Debug\netstandard2.0\EstilosPersonalizados.AssemblyInfo.cs
+C:\XamarinProjects\EstilosPersonalizados\EstilosPersonalizados\EstilosPersonalizados\obj\Debug\netstandard2.0\EstilosPersonalizados.dll
+C:\XamarinProjects\EstilosPersonalizados\EstilosPersonalizados\EstilosPersonalizados\obj\Debug\netstandard2.0\EstilosPersonalizados.pdb

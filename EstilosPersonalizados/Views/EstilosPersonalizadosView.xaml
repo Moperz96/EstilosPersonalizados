@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:EstilosPersonalizados"
+             x:Class="EstilosPersonalizados.Views.EstilosPersonalizadosView">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <!--Valores personalizados internos-->
+            <Color x:Key="colorletra">White</Color>
+            <Color x:Key="colorfondo">IndianRed</Color>
+            <!--Estilo personalizado interno-->
+            <Style x:Key="botonpersonalizado" TargetType="Label">
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="FontSize" Value="14"/>
+                <Setter Property="FontFamily" Value="sans-serif"/>
+                <Setter Property="BackgroundColor" Value="RoyalBlue"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <!--Valores personalizados internos-->
+            <Button Text="Valores personalizados internos" 
+                    TextColor="{StaticResource colorletra}" 
+                    BackgroundColor="{StaticResource colorfondo}" 
+                    Grid.Row="0"/>
+            <!--Estilo personalizado interno-->
+            <Button Text="Estilo personalizado interno con Style" 
+                    Style="{StaticResource botonpersonalizado}"
+                    Grid.Row="1"/>
+            <!--Estilo personalizado externo-->
+            <Button Text="Estilo personalizado global con Style"
+                    Style="{StaticResource botonpersonalizadoglobal}"
+                    Grid.Row="2"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
